@@ -8,12 +8,12 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sun3727310)](https:
 
 # Skill 🔧
 
-Platforms & Languages 
+**Platforms & Languages** 
 
 ![C](https://img.shields.io/badge/C-3CBDB1.svg?&style=for-the-badge&logo=C&logoColor=White)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=White)
 
-Tools
+**Tools**
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2C2255.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
